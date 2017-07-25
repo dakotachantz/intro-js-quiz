@@ -29,7 +29,7 @@ let greeting = "Hello, how are you? " + givenName;
 let high = 50;
 let low = 10;
 let math = high - low;
-// A: 40
+// A: number 40
 
 
 // 6.
